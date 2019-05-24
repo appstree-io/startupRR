@@ -6,14 +6,14 @@ body{
     height: 750px;
     background-color: #999;
 }
-.navbar-expand-md .navbar-nav .nav-link {
+.navbar-expand-lg .navbar-nav .nav-link {
     padding: .7rem 1.3rem;
     border-radius: 4px;
     text-align: center;
     color:#6e6e6e;
     font-weight: bold;
 }
-.navbar-expand-md .navbar-nav .nav-link:hover {
+.navbar-expand-lg .navbar-nav .nav-link:hover {
     background-color: #00a99d;
     color:#fff;
 }
@@ -242,8 +242,8 @@ body{
  .progress-circle.over50 .first50-bar {
     /*Progress bar for the first 50%, filling the whole right half*/
     position: absolute; /*needed for clipping*/
-    clip: rect(0,130px,130px, 2.5em);
-    background-color: #53777A;
+    clip: rect(0,130px,130px, 65px);
+    background-color: #00a99d;
     border-radius: 50%;
     width:130px;
     height:130px;
