@@ -1,7 +1,7 @@
 # startupRR
 
 
-https://suavis-technologies.github.io/startupRR/
+[CHECK OUT DEMO](https://appstree-io.github.io/startupRR/)
 
 # Desktop View
 
